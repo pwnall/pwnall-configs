@@ -1,0 +1,49 @@
+{
+  "admin": {
+    "secureModeEnabled": false,
+    "extensions": {
+      "enabled": true
+    },
+    "mcp": {
+      "enabled": true
+    },
+    "skills": {
+      "enabled": true
+    }
+  },
+  "context": {
+    "fileFiltering": {
+      "respectGitIgnore": false
+    }
+  },
+  "experimental": {
+    "enableAgents": true,
+    "plan": true
+  },
+  "general": {
+    "previewFeatures": true,
+    "retryFetchErrors": true
+  },
+  "ide": {
+    "hasSeenNudge": true,
+    "enabled": true
+  },
+  "security": {
+    "disableYoloMode": false,
+    "enablePermanentToolApproval": true
+  },
+  "skills": {
+    "enabled": true
+  },
+  "tools": {
+    "autoAccept": true,
+    "approvalMode": "auto_edit"
+  },
+  "ui": {
+    "footer": {
+      "hideContextPercentage": false
+    },
+    "showMemoryUsage": true,
+    "showModelInfoInChat": true
+  }
+}
