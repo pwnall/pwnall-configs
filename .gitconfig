@@ -1,0 +1,6 @@
+[user]
+	email = costan@gmail.com
+	name = Victor Costan
+
+[core]
+    editor = vim
